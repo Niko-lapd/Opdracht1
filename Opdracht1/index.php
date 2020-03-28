@@ -7,3 +7,4 @@ $a = " Ik ben niet geel eigenlijk";
 $b = "mijn vader is ook niet geel";
 $c = "mijn zus is wel geel tho";
 $volledigeZinnetje = $a . $b . $c;
+echo $volledigeZinnetje;
